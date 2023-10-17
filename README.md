@@ -1,2 +1,1 @@
-# test
-Created with CodeSandbox
+[Directory Structure Book - Pages](https://nuxtjs.org/docs/2.x/directory-structure/pages)
